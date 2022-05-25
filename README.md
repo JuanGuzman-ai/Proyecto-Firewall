@@ -4,8 +4,6 @@ Juan Delgado + Juan Molina
 
 Instalar el servidor de streaming Streama protegido por Firewall como se muestra en la figura. Todas las solicitudes hacia el servidor Streama deberán ser realizadas al firewall y no directamente al servicio configurado. El firewall debe redirigir las peticiones al servicio.
 
-![image](https://user-images.githubusercontent.com/81580183/170148198-a42197aa-04b3-431e-8105-76b4a02bf8ac.png)
-
 ## Descarga del proyecto
 Basta con hacer un git clone o descargando el .zip.
 ```bash
