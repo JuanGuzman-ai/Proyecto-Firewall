@@ -1,8 +1,8 @@
-# Parcial final práctico - Centos7 + Streama + Firewall
+# Proyect Firewall
 
 Juan Delgado + Juan Molina
 
-Instalar el servidor de streaming Streama protegido por Firewall como se muestra en la figura. Todas las solicitudes hacia el servidor Streama deberán ser realizadas al firewall y no directamente al servicio configurado. El firewall debe redirigir las peticiones al servicio.
+Crearemos dos maquinas virtuales con Vagrant, una servira como Firewall y el otro contendra el servidor Streama (plataforma de streaming)
 
 ## Descarga del proyecto
 Basta con hacer un git clone o descargando el .zip.
